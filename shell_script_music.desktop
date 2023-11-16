@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/anam/music.sh
+Name=shell_music
+Icon=/home/anam/bb.png
